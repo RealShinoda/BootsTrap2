@@ -1,0 +1,66 @@
+.hero {
+min-height: 85vh;
+background: linear-gradient(rgba(0,0,0,.65), rgba(0,0,0,.65)),
+url(https://i0.wp.com/elgeneracionalpost.com/wp-content/uploads/2023/03/Linkin-park.jpg?resize=696%2C555&ssl=1);
+background-size: cover no-repeat;
+background-position: center;
+}
+/* Colores HT */
+#servicioHT {
+  background-color: #766e62;
+}
+
+#servicioHT .text-muted {
+  color: #b0b0b0;
+}
+#servicioRA {
+  background-color: #766e62;
+}
+
+#servicioRA .text-muted {
+  color: #b0b0b0;
+}
+/*Colores RA*/
+#servicioRA {
+  background-color: #1f2933; 
+  color: #4f5d59;            
+}
+
+/* Ajustes de legibilidad para subtítulos */
+#servicioRA .text-muted {
+  color: #9fb3c8 !important;
+}
+
+#servicioRA .card {
+  background-color: #2b3a42;
+  color: #4f5d59;
+  border: 1px solid #3e4c59;
+}
+
+#como {
+  background-color: #0d3a9c !important; 
+ 
+}
+
+#como p {
+  color: #f1efe5;
+}
+
+footer {
+  background-color: #0d3a9c !important;
+  border-top: 1px solid #2b2b2b;       
+}
+
+footer .text-muted {
+  color: #888888 !important;
+}
+
+#who {
+  background-color: #435e05 !important;
+  border-top: 1px solid #2b2b2b;       
+}
+
+#who.text-muted {
+  color: #888888 !important;
+}
+
